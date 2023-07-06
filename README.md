@@ -1,7 +1,6 @@
 ![Elif Gafar CoverPhoto](https://github.com/elifgafar/ElifGafar/assets/114522180/7b6f04d2-85e2-4f4c-ad2a-8e310710bbf1)
 
 
-
 # Hello Hello!!
 <br>
 I am a Data Scientist who made a career change. My passion and research for artificial intelligence have led me to explore and professional in the fundamentals of data science. <br>
