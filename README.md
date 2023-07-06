@@ -24,11 +24,15 @@ If you would like to discuss topics such as data science, AI projects, Generativ
 <br><br><br>
 
 ##  Projects
+
+[![CLTV Prediction with BG/NBD & Gamma-Gamma](cltv.jpeg)](https://github.com/elifgafar/CLTV_Prediction_with_BG-NBD-Gamma-Gamma.git)
+
+
 [![Exploratory Data Analysis]("C:\POST-IT\content-pic\exploratory.jpg")](link/to/proje)
 <br>
 [![RFM - Customer Segmentation]("C:\POST-IT\content-pic\rfm.jpeg")](link/to/proje)
 <br>
-[![CLTV Prediction with BG/NBD & Gamma-Gamma]("C:\POST-IT\content-pic\cltv.jpeg")](link/to/proje)
+[![CLTV Prediction with BG/NBD & Gamma-Gamma]("README.md")]([link/to/proje](https://github.com/elifgafar/CLTV_Prediction_with_BG-NBD-Gamma-Gamma/blob/main/README.md))
 
 <br><br><br>
 
