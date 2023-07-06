@@ -11,6 +11,19 @@ Also, I am currently enrolled in the AWS Cloud Data Engineer Bootcamp because of
 
 If you would like to discuss topics such as data science, AI projects, Generative AI, and AWS, and explore the content I have generated, please feel free to connect me.
 <br>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/elifgafar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://medium.com/@elifgafar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
+</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/elifgafar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elifgafar/" height="30" width="40" /></a>
 <a href="https://medium.com/https://medium.com/@elifgafar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@elifgafar" height="30" width="40" /></a>
