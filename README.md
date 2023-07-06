@@ -7,7 +7,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/elifgafar/) [](https://medium.com/@https://medium.com/@elifgafar)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,py ,r,java,linux,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 # 📊 GitHub Stats:
 
