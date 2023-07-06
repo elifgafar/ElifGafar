@@ -17,26 +17,18 @@ If you would like to discuss topics such as data science, AI projects, Generativ
 <a href="https://medium.com/@elifgafar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
 </p>
 
-<br>
-<br>
-<br>
-<br>
-<br>
 
-
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/elifgafar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elifgafar/" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@elifgafar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@elifgafar" height="30" width="40" /></a>
-</p>
 <br><br><br>
 
 ##  Skills
+<br>
 
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,py,r,linux,java,git,tensorflow,sql)](https://skillicons.dev)
 
 <br><br><br>
 
 ##  Projects
+<br>
 
 [Exploratory Data Analysis](link/to/proje)
 <br>
@@ -53,6 +45,7 @@ and so on...(coming soon👀)
 
 
 ##  📈GitHub Stats:
+<br>
 
 ![](https://github-readme-stats.vercel.app/api?username=elifgafar&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=elifgafar&theme=default&hide_border=false)<br/>
