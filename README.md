@@ -1,4 +1,4 @@
-Hello Hello!! I'm Elif Gafar
+# Hello Hello!! I'm Elif Gafar
 
 🤖 I am a Data Scientist who made a career change. My passion and research for artificial intelligence have led me to explore and professional in the fundamentals of data science. Also, I am currently enrolled in the AWS Cloud Data Engineer Bootcamp because of my passion for data and desire to develop big data processing skills. <br>
 
